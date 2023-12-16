@@ -1,0 +1,1 @@
+const RazorpayApiKey ="rzp_test_I6n1u20AB6klH9	FooEBKje4HJ1lHC9VGGUogU7";
